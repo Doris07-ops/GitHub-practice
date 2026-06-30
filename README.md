@@ -10,3 +10,8 @@ This repository is for practicing the basic Git and GitHub workflow.
 4. Open a pull request.
 5. Merge the pull request.
 
+## What I learned
+
+- Created a local Git repository.
+- Pushed the first commit to GitHub.
+- Switched to a feature branch.
