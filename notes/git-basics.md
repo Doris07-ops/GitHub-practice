@@ -23,3 +23,9 @@ git add .
 git commit -m "Describe the change"
 git push -u origin branch-name
 ```
+
+## Recovery notes
+
+- Use git restore to discard unstaged changes.
+- Use git restore --staged to unstage changes.
+- Use git commit --amend to update the last unpushed commit.
