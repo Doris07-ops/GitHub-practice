@@ -15,7 +15,3 @@ This repository is for practicing the basic Git and GitHub workflow.
 - Created a local Git repository.
 - Pushed the first commit to GitHub.
 - Switched to a feature branch.
-
-## Mistaken section
-
-This section should be reverted later.
