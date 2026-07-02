@@ -1,6 +1,6 @@
 # github-practice
 
-This repository is for practicing GitHub workflows with branch B.
+This repository is for practicing GitHub workflows and conflict resolution.
 
 ## First workflow
 
